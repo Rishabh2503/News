@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+.pict1{
+    margin: 2rem 0;
+    text-align: center;
+}
+.pict1 h1{
+    margin-top: 1rem;
+    font-weight: 500;
+}
+.pict1 p{
+    text-align: justify;
+    margin: 3rem;
+    font-size: large;
+    font-weight: 350;
+}
